@@ -1,2 +1,0 @@
- http://www.scala-lang.org/old/node/3485
- github: {user: sanity, repoName: swarm}
